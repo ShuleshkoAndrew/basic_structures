@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: basic-structures
+Version: 0.0.1
+Summary: Module with queue-like doubly linked list and binary search tree
+Home-page: github
+Author: Andrew Shuleshko
+Author-email: shuleshko.av@phystech.edu
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Development Status :: 3 - Alpha
+Description-Content-Type: .md
+
+README.md
