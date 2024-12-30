@@ -12,7 +12,9 @@ To install this package next packages should be installed:
 ```bash
 $ git clone https://github.com/ShuleshkoAndrew/basic_structures.git
 $ cd basic_structures
-$ pip install ./dist/basic_structures-0.0.1.tar.gz
+$ pip install .
+or if you are in your local environmect
+$ python -m pip install .
 ```
 
 

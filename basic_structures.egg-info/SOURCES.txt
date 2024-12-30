@@ -1,5 +1,8 @@
 README.md
 setup.py
+basic_structures/__init__.py
+basic_structures/binary_search_tree.py
+basic_structures/doubly_linked_list.py
 basic_structures.egg-info/PKG-INFO
 basic_structures.egg-info/SOURCES.txt
 basic_structures.egg-info/dependency_links.txt

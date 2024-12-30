@@ -58,3 +58,13 @@ class BinarySearchTree:
             self.root = _delete(self.root, val)
             if not found:
                 raise KeyError
+
+        # merging two trees
+        def merge(self, bstree):
+            def _insert(node):
+                if node:
+                    self.insert(node.data)
+                    _insert(node.left)
+                    _insert(node.right)
+
+            _insert(bstree.root)
